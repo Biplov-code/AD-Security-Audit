@@ -1,0 +1,5 @@
+Username,Enabled,LastLogonDate,PasswordLastSet,PasswordNeverExpires,SecurityStatus
+jdoe,True,2026-10-10,2026-09-15,False,Normal
+olduser,True,2026-05-01,2026-02-01,False,Inactive Account
+disableduser,False,2026-09-01,2026-08-01,False,Disabled Account
+svc_backup,True,2026-10-20,2026-01-01,True,Password Never Expires
